@@ -1,9 +1,8 @@
 {
-  "Monstadt": [
+  "characters": [
     {
       "id": 1,
       "name": "Jean",
-      "stars": 5,
       "location": "Monstadt",
       "jp_voice_actor": "Manaka Iwami",
       "en_voice_actor": "Kelly Baskin",
@@ -15,7 +14,6 @@
     {
       "id": 2,
       "name": "Amber",
-      "stars": 4,
       "location": "Monstadt",
       "jp_voice_actor": "Manaka Iwami",
       "en_voice_actor": "Kelly Baskin",
@@ -27,7 +25,6 @@
     {
       "id": 3,
       "name": "Lisa",
-      "stars": 4,
       "location": "Monstadt",
       "jp_voice_actor": "Manaka Iwami",
       "en_voice_actor": "Kelly Baskin",
@@ -39,7 +36,6 @@
     {
       "id": 4,
       "name": "Kaeya",
-      "stars": 4,
       "location": "Monstadt",
       "jp_voice_actor": "Manaka Iwami",
       "en_voice_actor": "Kelly Baskin",
@@ -51,7 +47,6 @@
     {
       "id": 5,
       "name": "Barbara",
-      "stars": 4,
       "location": "Monstadt",
       "jp_voice_actor": "Manaka Iwami",
       "en_voice_actor": "Kelly Baskin",
@@ -63,7 +58,6 @@
     {
       "id": 6,
       "name": "Diluc",
-      "stars": 5,
       "location": "Monstadt",
       "jp_voice_actor": "Manaka Iwami",
       "en_voice_actor": "Kelly Baskin",
@@ -75,7 +69,6 @@
     {
       "id": 7,
       "name": "Razor",
-      "stars": 4,
       "location": "Monstadt",
       "jp_voice_actor": "Manaka Iwami",
       "en_voice_actor": "Kelly Baskin",
@@ -87,7 +80,6 @@
     {
       "id": 8,
       "name": "Venti",
-      "stars": 5,
       "location": "Monstadt",
       "jp_voice_actor": "Manaka Iwami",
       "en_voice_actor": "Kelly Baskin",
@@ -99,7 +91,6 @@
     {
       "id": 9,
       "name": "Klee",
-      "stars": 5,
       "location": "Monstadt",
       "jp_voice_actor": "Manaka Iwami",
       "en_voice_actor": "Kelly Baskin",
@@ -111,7 +102,6 @@
     {
       "id": 10,
       "name": "Bennett",
-      "stars": 4,
       "location": "Monstadt",
       "jp_voice_actor": "Manaka Iwami",
       "en_voice_actor": "Kelly Baskin",
@@ -123,7 +113,6 @@
     {
       "id": 11,
       "name": "Noelle",
-      "stars": 4,
       "location": "Monstadt",
       "jp_voice_actor": "Manaka Iwami",
       "en_voice_actor": "Kelly Baskin",
@@ -135,7 +124,6 @@
     {
       "id": 12,
       "name": "Fischl",
-      "stars": 4,
       "location": "Monstadt",
       "jp_voice_actor": "Manaka Iwami",
       "en_voice_actor": "Kelly Baskin",
@@ -147,7 +135,6 @@
     {
       "id": 13,
       "name": "Sucrose",
-      "stars": 4,
       "location": "Monstadt",
       "jp_voice_actor": "Manaka Iwami",
       "en_voice_actor": "Kelly Baskin",
@@ -159,7 +146,6 @@
     {
       "id": 14,
       "name": "Mona",
-      "stars": 5,
       "location": "Monstadt",
       "jp_voice_actor": "Manaka Iwami",
       "en_voice_actor": "Kelly Baskin",
@@ -171,7 +157,6 @@
     {
       "id": 15,
       "name": "Diona",
-      "stars": 4,
       "location": "Monstadt",
       "jp_voice_actor": "Manaka Iwami",
       "en_voice_actor": "Kelly Baskin",
@@ -183,7 +168,6 @@
     {
       "id": 16,
       "name": "Albedo",
-      "stars": 5,
       "location": "Monstadt",
       "jp_voice_actor": "Manaka Iwami",
       "en_voice_actor": "Kelly Baskin",
@@ -195,7 +179,6 @@
     {
       "id": 17,
       "name": "Rosaria",
-      "stars": 4,
       "location": "Monstadt",
       "jp_voice_actor": "Manaka Iwami",
       "en_voice_actor": "Kelly Baskin",
@@ -207,7 +190,6 @@
     {
       "id": 18,
       "name": "Eula",
-      "stars": 5,
       "location": "Monstadt",
       "jp_voice_actor": "Manaka Iwami",
       "en_voice_actor": "Kelly Baskin",
