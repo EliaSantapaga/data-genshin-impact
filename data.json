@@ -8,8 +8,8 @@
       "enVoiceActor": "Kelly Baskin",
       "description": "Una ragazza vivace e diretta, nonché la Vigilante dei Cavalieri di Favonius.<br /> Grazie alle sue grandi abilità nell'uso dell'aliante, è tre volte campionessa di volo a vela di Mondstadt.<br /> Stella nascente dei Cavalieri di Favonius, Amber è sempre pronta per qualsiasi missione, facile o difficile che sia.",
       "element": "./src/assets/elements/Anemo.png",
-      "fullart": "./src/assets/character/Jean.png",
-      "avatar": "./src/assets/character/profile/Jean-profile.png"
+      "fullart": "./src/assets/characters/Jean.png",
+      "avatar": "./src/assets/characters/profile/Jean-profile.png"
     },
     {
       "id": 2,
@@ -19,8 +19,8 @@
       "enVoiceActor": "Kelly Baskin",
       "description": "",
       "element": "./src/assets/elements/Pyro.png",
-      "fullart": "./src/assets/character/Amber.png",
-      "avatar": "./src/assets/character/profile/Amber-profile.png"
+      "fullart": "./src/assets/characters/Amber.png",
+      "avatar": "./src/assets/characters/profile/Amber-profile.png"
     },
     {
       "id": 3,
@@ -30,8 +30,8 @@
       "enVoiceActor": "Kelly Baskin",
       "description": "",
       "element": "./src/assets/elements/Electro.png",
-      "fullart": "./src/assets/character/Lisa.png",
-      "avatar": "./src/assets/character/profile/Lisa-profile.png"
+      "fullart": "./src/assets/characters/Lisa.png",
+      "avatar": "./src/assets/characters/profile/Lisa-profile.png"
     },
     {
       "id": 4,
@@ -41,8 +41,8 @@
       "enVoiceActor": "Kelly Baskin",
       "description": "",
       "element": "./src/assets/elements/Cryo.png",
-      "fullart": "./src/assets/character/Kaeya.png",
-      "avatar": "./src/assets/character/profile/Kaeya-profile.png"
+      "fullart": "./src/assets/characters/Kaeya.png",
+      "avatar": "./src/assets/characters/profile/Kaeya-profile.png"
     },
     {
       "id": 5,
@@ -52,8 +52,8 @@
       "enVoiceActor": "Kelly Baskin",
       "description": "",
       "element": "./src/assets/elements/Hydro.png",
-      "fullart": "./src/assets/character/Barbara.png",
-      "avatar": "./src/assets/character/profile/Barbara-profile.png"
+      "fullart": "./src/assets/characters/Barbara.png",
+      "avatar": "./src/assets/characters/profile/Barbara-profile.png"
     },
     {
       "id": 6,
@@ -63,8 +63,8 @@
       "enVoiceActor": "Kelly Baskin",
       "description": "",
       "element": "./src/assets/elements/Pyro.png",
-      "fullart": "./src/assets/character/Diluc.png",
-      "avatar": "./src/assets/character/profile/Diluc-profile.png"
+      "fullart": "./src/assets/characters/Diluc.png",
+      "avatar": "./src/assets/characters/profile/Diluc-profile.png"
     },
     {
       "id": 7,
@@ -74,8 +74,8 @@
       "enVoiceActor": "Kelly Baskin",
       "description": "",
       "element": "./src/assets/elements/Electro.png",
-      "fullart": "./src/assets/character/Razor.png",
-      "avatar": "./src/assets/character/profile/Razor-profile.png"
+      "fullart": "./src/assets/characters/Razor.png",
+      "avatar": "./src/assets/characters/profile/Razor-profile.png"
     },
     {
       "id": 8,
@@ -85,8 +85,8 @@
       "enVoiceActor": "Kelly Baskin",
       "description": "",
       "element": "./src/assets/elements/Anemo.png",
-      "fullart": "./src/assets/character/Venti.png",
-      "avatar": "./src/assets/character/profile/Venti-profile.png"
+      "fullart": "./src/assets/characters/Venti.png",
+      "avatar": "./src/assets/characters/profile/Venti-profile.png"
     },
     {
       "id": 9,
@@ -96,8 +96,8 @@
       "enVoiceActor": "Kelly Baskin",
       "description": "",
       "element": "./src/assets/elements/Pyro.png",
-      "fullart": "./src/assets/character/Klee.png",
-      "avatar": "./src/assets/character/profile/Klee-profile.png"
+      "fullart": "./src/assets/characters/Klee.png",
+      "avatar": "./src/assets/characters/profile/Klee-profile.png"
     },
     {
       "id": 10,
@@ -107,8 +107,8 @@
       "enVoiceActor": "Kelly Baskin",
       "description": "",
       "element": "./src/assets/elements/Pyro.png",
-      "fullart": "./src/assets/character/Bennett.png",
-      "avatar": "./src/assets/character/profile/Bennett-profile.png"
+      "fullart": "./src/assets/characters/Bennett.png",
+      "avatar": "./src/assets/characters/profile/Bennett-profile.png"
     },
     {
       "id": 11,
@@ -118,8 +118,8 @@
       "enVoiceActor": "Kelly Baskin",
       "description": "",
       "element": "./src/assets/elements/Geo.png",
-      "fullart": "./src/assets/character/Noelle.png",
-      "avatar": "./src/assets/character/profile/Noelle-profile.png"
+      "fullart": "./src/assets/characters/Noelle.png",
+      "avatar": "./src/assets/characters/profile/Noelle-profile.png"
     },
     {
       "id": 12,
@@ -129,8 +129,8 @@
       "enVoiceActor": "Kelly Baskin",
       "description": "",
       "element": "./src/assets/elements/Electro.png",
-      "fullart": "./src/assets/character/Fischl.png",
-      "avatar": "./src/assets/character/profile/Fischl-profile.png"
+      "fullart": "./src/assets/characters/Fischl.png",
+      "avatar": "./src/assets/characters/profile/Fischl-profile.png"
     },
     {
       "id": 13,
@@ -140,8 +140,8 @@
       "enVoiceActor": "Kelly Baskin",
       "description": "",
       "element": "./src/assets/elements/Anemo.png",
-      "fullart": "./src/assets/character/Sucrose.png",
-      "avatar": "./src/assets/character/profile/Sucrose-profile.png"
+      "fullart": "./src/assets/characters/Sucrose.png",
+      "avatar": "./src/assets/characters/profile/Sucrose-profile.png"
     },
     {
       "id": 14,
@@ -151,8 +151,8 @@
       "enVoiceActor": "Kelly Baskin",
       "description": "",
       "element": "./src/assets/elements/Hydro.png",
-      "fullart": "./src/assets/character/Mona.png",
-      "avatar": "./src/assets/character/profile/Mona-profile.png"
+      "fullart": "./src/assets/characters/Mona.png",
+      "avatar": "./src/assets/characters/profile/Mona-profile.png"
     },
     {
       "id": 15,
@@ -162,8 +162,8 @@
       "enVoiceActor": "Kelly Baskin",
       "description": "",
       "element": "./src/assets/elements/Cryo.png",
-      "fullart": "./src/assets/character/Diona.png",
-      "avatar": "./src/assets/character/profile/Diona-profile.png"
+      "fullart": "./src/assets/characters/Diona.png",
+      "avatar": "./src/assets/characters/profile/Diona-profile.png"
     },
     {
       "id": 16,
@@ -173,8 +173,8 @@
       "enVoiceActor": "Kelly Baskin",
       "description": "",
       "element": "./src/assets/elements/Geo.png",
-      "fullart": "./src/assets/character/Albedo.png",
-      "avatar": "./src/assets/character/profile/Albedo-profile.png"
+      "fullart": "./src/assets/characters/Albedo.png",
+      "avatar": "./src/assets/characters/profile/Albedo-profile.png"
     },
     {
       "id": 17,
@@ -184,8 +184,8 @@
       "enVoiceActor": "Kelly Baskin",
       "description": "",
       "element": "./src/assets/elements/Cryo.png",
-      "fullart": "./src/assets/character/Rosaria.png",
-      "avatar": "./src/assets/character/profile/Rosaria-profile.png"
+      "fullart": "./src/assets/characters/Rosaria.png",
+      "avatar": "./src/assets/characters/profile/Rosaria-profile.png"
     },
     {
       "id": 18,
@@ -195,8 +195,8 @@
       "enVoiceActor": "Kelly Baskin",
       "description": "",
       "element": "./src/assets/elements/Cryo.png",
-      "fullart": "./src/assets/character/Eula.png",
-      "avatar": "./src/assets/character/profile/Eula-profile.png"
+      "fullart": "./src/assets/characters/Eula.png",
+      "avatar": "./src/assets/characters/profile/Eula-profile.png"
     }
   ]
 }
